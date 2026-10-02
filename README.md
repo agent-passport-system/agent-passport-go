@@ -50,7 +50,7 @@ Issuing and signing (Waves 2+3):
 - **intoto** - emit and parse in-toto decision-receipt statements, compute a
   delegation-chain root.
 
-[The verification boundary](https://github.com/aeoess/agent-passport-go/blob/main/docs/verification-boundary.md) draws the authority-against-integrity line, names the surface this release classified, and records that the rest were not classified.
+[The verification boundary](https://github.com/agent-passport-system/agent-passport-go/blob/main/docs/verification-boundary.md) draws the authority-against-integrity line, names the surface this release classified, and records that the rest were not classified.
 
 ## Cross-implementation parity
 
