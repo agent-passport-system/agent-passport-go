@@ -97,6 +97,13 @@ re-run live.
 APS_TS_REPO=/path/to/agent-passport-system go test ./...
 ```
 
+## Related implementations
+
+- **TypeScript SDK**: https://www.npmjs.com/package/agent-passport-system ([repo](https://github.com/agent-passport-system/agent-passport-system))
+- **Python SDK**: https://pypi.org/project/agent-passport-system/ ([repo](https://github.com/agent-passport-system/agent-passport-python))
+- **Rust SDK**: https://crates.io/crates/agent-passport-system ([repo](https://github.com/agent-passport-system/agent-passport-rust))
+- **MCP Server**: https://www.npmjs.com/package/agent-passport-system-mcp ([repo](https://github.com/agent-passport-system/agent-passport-mcp))
+
 ## License
 
 Apache-2.0. Copyright 2026 Tymofii Pidlisnyi. The signed-bytes spec is CC0.
